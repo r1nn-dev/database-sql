@@ -1,4 +1,5 @@
 # database-sql
+> mysql, 
 - SELECT / WHERE
 - JOIN
 - GROUP BY / HAVING
